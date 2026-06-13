@@ -1,0 +1,10 @@
+1;Torres del Paine Full Day;Aventura;en vehiculo;185000
+2;Navegacion por el Canal Beagle;Ecoturismo;acuatico;210000
+3;Chiloe Mistico y sus Iglesias;Cultural;en vehiculo;125000
+4;Trekking Base Las Torres;Aventura;a pie;150000
+5;Tradicion Alemana y Reposteria;Gastronomico;en vehiculo;95000
+6;Kayak en el Lago Llanquihue;Ecoturismo;acuatico;120000
+7;Pudu y Pumas: Safari Fotografico;Ecoturismo;en vehiculo;198000
+8;Senderos del Bosque Valdiviano;Aventura;a pie;105000
+9;Pesca Artesanal y Curanto en Castro;Gastronomico;acuatico;175000
+10;Termas Geometricas y Cultura Mapuche;Cultural;en vehiculo;140000
